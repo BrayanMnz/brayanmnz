@@ -2,21 +2,21 @@
 
 
 I'm a Telematics Engineer from <a href="https://www.pucmm.edu.do/">PUCMM</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-Software Development Engineer 
+Java Software Development Engineer | DevOps Engineer
 </br>Working remote - From    <span> <img src="https://cdn-icons-png.flaticon.com/512/330/330638.png" width="25"/> 
   
-🌱 I’m currently learning :  R, Python and Stats. 
+🌱 I’m currently learning :  GoLang, Terraform, Kubernetes. 
   
   
   Technical skills:
-- Programming Languages: Java☕ , Python, R, JavaScript.
-- Frameworks : Spring Boot, Spring MVC/Data/Security, Javalin, NodeJs (ExpressJS). 
+- Programming Languages: Java☕, Golang, Python, R, JavaScript.
+- Frameworks : JavaEE/JakartaEE, SpringFramework (Spring Boot), Spring MVC/Data/Security, NodeJs (ExpressJS). 
 - Databases : PostgreSQL.
-- ORM's : Hibernate, Sequelize. 
+- ORM's : Hibernate. 
 - VCS : Git - GitLab/GitHub.
 - Markup Languages / Data Formats : XML, HTML, CSS, JSON.
-- Cloud Providers : AWS, Azure Fundamentals. 
-- Software Build / Dependency Management : Maven, Gradle, NPM.
+- Cloud Providers : AWS, Azure.
+- Software Build / Dependency Management : Maven, Gradle.
   
   
 <!--
