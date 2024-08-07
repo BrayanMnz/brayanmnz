@@ -5,7 +5,7 @@ I'm a Telematics Engineer from <a href="https://www.pucmm.edu.do/">PUCMM</a><img
 Java Software Development Engineer | DevOps Engineer
 </br>Working remote - From    <span> <img src="https://cdn-icons-png.flaticon.com/512/330/330638.png" width="25"/> 
   
-🌱 I’m currently learning :  GoLang, Terraform, Kubernetes. 
+🌱 I’m currently learning :  Java, Kubernetes, Cloud Development. 
   
   
   Technical skills:
