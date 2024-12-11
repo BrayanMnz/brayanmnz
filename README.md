@@ -9,7 +9,7 @@ Java Software Development Engineer | DevOps Engineer
   
   
   Technical skills:
-- Programming Languages: Java☕, Golang, Python, R, JavaScript.
+- Programming Languages: Java☕, Kotlin, Python, R, JavaScript.
 - Frameworks : JavaEE/JakartaEE, SpringFramework (Spring Boot), Spring MVC/Data/Security, NodeJs (ExpressJS). 
 - Databases : PostgreSQL.
 - ORM's : Hibernate. 
