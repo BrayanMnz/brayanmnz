@@ -2,7 +2,7 @@
 
 
 I'm a Telematics Engineer from <a href="https://www.pucmm.edu.do/">PUCMM</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-Java Software Development Engineer | DevOps Engineer
+Java Developer
 </br>Working remote - From    <span> <img src="https://cdn-icons-png.flaticon.com/512/330/330638.png" width="25"/> 
   
 🌱 I’m currently learning :  Java, Kubernetes, Cloud Development. 
